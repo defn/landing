@@ -1,6 +1,6 @@
 # Table of contents
 
-* [solo](https://www..defn.ooo)
+* [defn](https://www.defn.ooo)
 * [solo](https://solo.defn.ooo)
 * [home](https://home.defn.ooo)
 * [kitt](https://kitt.defn.ooo)
