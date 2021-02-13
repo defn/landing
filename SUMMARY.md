@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Landing Page](README.md)
+* [landing](README.md)
+* [solo](https://www.defn.ooo/home)
+* [home](https://www.defn.ooo/home)
+* [kitt](https://www.defn.ooo/kitt)
+* [katt](https://www.defn.ooo/katt)
+* [kiki](https://www.defn.ooo/kiki)
+* [fogg](https://www.defn.ooo/fogg)
+* [datum](https://www.defn.ooo/datum)
 
